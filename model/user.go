@@ -62,5 +62,5 @@ func LoginCheck(loinreq LoginReq) (bool, User, error) {
 		Permission: "1",
 	}
 
-	return false,resultUser,nil
+	return true,resultUser,nil
 }
