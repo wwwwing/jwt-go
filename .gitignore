@@ -1,0 +1,16 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary,  with `go test -c`
+*.test
+
+*.out
+
+.glide/
+
+.vscode/
+
+.idea/
